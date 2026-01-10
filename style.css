@@ -33,7 +33,7 @@ a, a:hover {
   padding: 50px 20px;
   padding-top: 100px;
   display: flex;
-  background-image: url(/images/background.svg);
+  background-image: url(/assets/background.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
